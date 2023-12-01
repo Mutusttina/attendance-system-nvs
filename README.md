@@ -1,2 +1,2 @@
 # attendance-system-nvs
-Attendance system with a QR code scanner.
+Attendance system Frontend with a QR code scanner.
